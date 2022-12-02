@@ -1,0 +1,1 @@
+// TODO 2: Create schema name, email, password, role, forgotPasswordToken, forgotPasswordExpiry, add timpestamps
